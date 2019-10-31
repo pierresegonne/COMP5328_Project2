@@ -1,5 +1,5 @@
 # ---- Own ----
-datasets/
+data/*
 
 # ---- Template -----
 __pycache__/
